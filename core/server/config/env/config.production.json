@@ -2,10 +2,10 @@
     "database": {
         "client": "mysql",
         "connection": {
-            "host"     : "127.0.0.1",
-            "user"     : "root",
-            "password" : "",
-            "database" : "ghost"
+            "host"     : "tj5iv8piornf713y.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+            "user"     : "iwbsymrzlvam1n5t",
+            "password" : "dxnxeguhyjtca3jt",
+            "database" : "nwzcjeadjc5m7v7f"
         }
     },
     "paths": {
