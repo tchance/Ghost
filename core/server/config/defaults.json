@@ -1,8 +1,8 @@
 {
-    "url": "http://localhost:3306",
+    "url": "http://localhost:2368",
     "server": {
-        "host": "tj5iv8piornf713y.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-        "port": 3306
+        "host": "127.0.0.1",
+        "port": 2368
     },
     "updateCheck": {
         "url": "https://updates.ghost.org",
