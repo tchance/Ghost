@@ -1,1 +1,2 @@
 web: npm install --production && npm start --production
+random: random
